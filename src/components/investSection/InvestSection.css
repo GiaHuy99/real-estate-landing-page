@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
     padding: 90px 5% 60px;        /* ← Khoảng cách nhỏ lại, chỉ 80px trên */
     box-sizing: border-box;
     margin-bottom: 10px;
@@ -61,6 +61,7 @@
 
 .main-title {
     font-size: 4.5rem;
+    font-family: 'Playfair Display', serif;
     font-weight: 900;
     line-height: 1.1;
     margin-bottom: 24px;
@@ -70,6 +71,7 @@
 
 .main-description {
     font-size: 1.35rem;
+    font-family: 'Lora', serif;
     line-height: 1.8;
     margin-bottom: 36px;
     max-width: 600px;
