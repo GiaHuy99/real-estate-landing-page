@@ -1,0 +1,17 @@
+.about-section {
+    background-color: #ffffff; /* nền trắng */
+    padding: 60px 20px; /* tăng padding cho section thoáng */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.about-text {
+    font-family: 'Montserrat', 'Poppins', sans-serif; /* font đẹp */
+    font-size: 3.0rem; /* tăng kích thước chữ */
+    font-weight: 700; /* chữ đậm hơn */
+    color: #333333;
+    max-width: 900px; /* giới hạn chiều rộng chữ */
+    line-height: 1.3; /* khoảng cách dòng */
+}
