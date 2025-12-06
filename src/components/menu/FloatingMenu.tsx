@@ -1,5 +1,5 @@
 import React from "react";
-import {FaHome, FaInfo, FaUtensils, FaProjectDiagram, FaNewspaper, FaPhone, FaBuilding} from "react-icons/fa";
+import {FaHome, FaInfo, FaNewspaper, FaPhone} from "react-icons/fa";
 import "./FloatingMenu.css";
 import {FiCompass} from "react-icons/fi";
 import {MdLocationCity} from "react-icons/md";
