@@ -59,7 +59,7 @@ const House1: React.FC = () => {
                 }, 3000);
             })
             .catch(() => {
-                alert("Gửi thất bại, vui lòng thử lại!");
+                alert("Fail, try again!");
                 setLoading(false);
             });
     };
@@ -148,8 +148,8 @@ const House1: React.FC = () => {
                         <div className="form-content">
                             {sent ? (
                                 <div className="success-message">
-                                    <h3>Cảm ơn quý khách!</h3>
-                                    <p>Chúng tôi sẽ liên hệ ngay trong 5 phút.</p>
+                                    <h3>Thanks!</h3>
+                                    <p>We will contact in 5min.</p>
                                 </div>
                             ) : (
                                 <form onSubmit={handleSubmit}>
@@ -170,7 +170,7 @@ const House1: React.FC = () => {
                                     />
 
                                     <button type="submit" disabled={loading}>
-                                        {loading ? "Đang gửi..." : "Gửi yêu cầu"}
+                                        {loading ? "Sending..." : "Sending"}
                                     </button>
                                 </form>
                             )}
