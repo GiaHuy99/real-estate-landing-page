@@ -6,7 +6,7 @@ const IntroduceSection: React.FC = () => {
         <section className="image-text-section">
             <div className="image-container">
                 <img
-                    src="../../../public/images/introduce/photo-1583417319070-4a69db38a482.jpeg"
+                    src="/images/introduce/photo-1583417319070-4a69db38a482.jpeg"
                     alt="Section Background"
                     className="section-image"
                 />
