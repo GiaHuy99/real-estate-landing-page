@@ -20,14 +20,14 @@ const InvestSection: React.FC = () => {
                 {/* Bên trái: Title + Text */}
                 <div className="text-content">
                     <h1 className="main-title">
-                        Sở hữu bất động sản<br />
-                        Định nghĩa lại phong cách sống
+                        Property ownership<br />
+                        Redefining the way of living
                     </h1>
                     <p className="main-description">
-                        Nơi mỗi mét vuông đều là một tác phẩm nghệ thuật.
-                        Nơi kiến trúc hòa quyện cùng thiên nhiên, nội thất tinh tế đến từng chi tiết,
-                        và tiện ích đẳng cấp 5 sao chỉ dành riêng cho chủ nhân thượng lưu.
-                        Đây không chỉ là nơi ở — đây là tuyên ngôn về vị thế và gu thẩm mỹ của bạn.
+                        Where every square meter is a work of art.
+                        Where architecture blends seamlessly with nature, interiors are crafted with exquisite detail,
+                        and five-star amenities are reserved exclusively for the elite.
+                        This is not just a place to live — it is a statement of your status and refined taste.
                     </p>
                     {/*<button className="cta-button">Bắt đầu hành trình →</button>*/}
                 </div>
@@ -36,19 +36,19 @@ const InvestSection: React.FC = () => {
                 <div className="stats-grid">
                     <div className="stat-box">
                         <h3>500+</h3>
-                        <p>Khách hàng thượng lưu</p>
+                        <p>Luxury clientele</p>
                     </div>
                     <div className="stat-box">
                         <h3>98%</h3>
-                        <p>Hài lòng tuyệt đối</p>
+                        <p>Absolute satisfaction</p>
                     </div>
                     <div className="stat-box">
                         <h3>30+</h3>
-                        <p>Dự án bàn giao đúng tiến độ</p>
+                        <p>Project delivered on schedule</p>
                     </div>
                     <div className="stat-box">
                         <h3>5★</h3>
-                        <p>Tiêu chuẩn vận hành quốc tế</p>
+                        <p>World-class operational standards</p>
                     </div>
                 </div>
             </div>
