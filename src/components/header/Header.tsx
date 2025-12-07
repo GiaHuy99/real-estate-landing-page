@@ -4,7 +4,7 @@ import "./Header.css";
 const Header: React.FC = () => {
     return (
         <header className="header-container">
-            <div className="header-logo">DuongThanhHuy</div>
+            <div className="header-logo">NUNU</div>
 
             {/* Nội dung chính */}
             <div className="header-content">

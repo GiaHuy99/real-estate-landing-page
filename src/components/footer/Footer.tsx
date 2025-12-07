@@ -36,7 +36,7 @@ export default function Footer() {
 
                     <p>
                         <a href="tel:0984768713" className="footer-link">
-                            <Phone size={18} /> Zalo: 0984768713
+                            <Phone size={18} /> Zalo: 0984768725
                         </a>
                     </p>
 
@@ -45,13 +45,13 @@ export default function Footer() {
                             href="mailto:giahuytran13072002@gmail.com"
                             className="footer-link"
                         >
-                            <Mail size={18} /> giahuytran13072002@gmail.com
+                            <Mail size={18} /> nunu@gmail.com
                         </a>
                     </p>
                 </div>
 
                 {/* Big Name */}
-                <h1 className="footer-name">DUONGTHANHHUY</h1>
+                <h1 className="footer-name">NUNU</h1>
             </div>
         </footer>
     );

@@ -12,7 +12,7 @@ const IntroduceSection: React.FC = () => {
                 />
                 <div className="text-overlay">
                     <h2 className="overlay-title">
-                        Discover the Future with DuongThanhHuy
+                        Discover the Future with NUNU
                     </h2>
                     <p className="overlay-subtitle">
                         A perfect blend of modernity and culture in Vietnam
