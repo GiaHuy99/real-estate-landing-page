@@ -1,5 +1,3 @@
-name = "real-estate-landing-page"
-compatibility_date = "2025-12-06"
-
-[[pages_build_output]]
-directory = "./dist"
+name = "luxuryestate"
+compatibility_date = "2025-17-12"
+assets = { directory = "./public/" }
